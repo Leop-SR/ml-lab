@@ -88,7 +88,7 @@ def run_linear(
         f"Linear Regression - {dataset_name}"
     )
 
-    plt.show()
+    #plt.show()
 
     return {
         "model": "Linear Regression",

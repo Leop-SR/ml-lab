@@ -104,7 +104,7 @@ def run_logistic(
         f"Logistic Regression - {dataset_name}"
     )
 
-    plt.show()
+    #plt.show()
 
     return {
         "model": "Logistic Regression",

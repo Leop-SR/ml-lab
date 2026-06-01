@@ -84,7 +84,7 @@ def run_knn(
         f"KNN - {dataset_name}"
     )
 
-    plt.show()
+    #plt.show()
 
     return {
         "model": "KNN",
