@@ -45,7 +45,7 @@ public class PythonApiService {
     ) {
 
         String url =
-                "http://127.0.0.1:8000/linear/run";
+                "https://python-api-vj5u.onrender.com/linear/run";
 
         HttpHeaders headers =
                 new HttpHeaders();
@@ -115,7 +115,7 @@ public class PythonApiService {
     ) {
 
         String url =
-                "http://127.0.0.1:8000/knn/run";
+                "https://python-api-vj5u.onrender.com/knn/run";
 
         HttpHeaders headers =
                 new HttpHeaders();
@@ -185,7 +185,7 @@ public class PythonApiService {
     ) {
 
         String url =
-                "http://127.0.0.1:8000/logistic/run";
+                "https://python-api-vj5u.onrender.com/logistic/run";
 
         HttpHeaders headers =
                 new HttpHeaders();
